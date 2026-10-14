@@ -7,7 +7,8 @@ A RESTful Expense Tracker API built with Spring Boot following clean architectur
 - Create, Read, Update, and Delete expenses (CRUD)
 - PostgreSQL integration
 - API Health Check
----------- ONGOING ----------
+
+ONGOING !!!
 - Input validation & Error handling
 - JWT auth
 - Monthly Expense Summaries
