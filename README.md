@@ -4,33 +4,28 @@ A RESTful Expense Tracker API built with Spring Boot following clean architectur
 
 ## Features
 
-- User Authentication (JWT)
-- Expense Management
-- Category Management
-- Monthly Summary
-- Validation
-- Swagger Documentation
+- Create, Read, Update, and Delete expenses (CRUD)
+- PostgreSQL integration
+- API Health Check
+---------- ONGOING ----------
+- Input validation & Error handling
+- JWT auth
+- Monthly Expense Summaries
+- Swagger / OpenAI Documentation
+- Docker Support
 
 ## Tech Stack
 
 - Java 21
-- Spring Boot
-- Spring Security
-- Spring Data JPA
+- Spring Boot & Spring Security
+- Spring Data JPA / Hibernate
 - PostgreSQL
 - Maven
-- Docker (Planned)
+- Postman
 
 ## Project Status
 
-🚧 Currently under development.
+🚧 Currently under development. Core expense CRUD operations and database integration are implemented
 
-## Architecture
-
-Controller
-↓
-Service
-↓
-Repository
-↓
-PostgreSQL
+## Author
+VinVinn16
